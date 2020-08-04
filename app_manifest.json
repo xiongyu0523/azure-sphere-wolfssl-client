@@ -1,0 +1,11 @@
+﻿{
+  "SchemaVersion": 1,
+  "Name": "azure-sphere-wolfssl-client",
+  "ComponentId": "9897927e-44eb-4c4a-bccd-41b0dccccb98",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [ "example.com" ]
+  },
+  "ApplicationType": "Default"
+}
